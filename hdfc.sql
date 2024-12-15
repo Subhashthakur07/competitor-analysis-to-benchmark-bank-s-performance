@@ -1,8 +1,8 @@
---Priyanshu Dubey
---sec AE
---uni roll no.:2215500115
---class roll no.:35
---Group no.:25
+--Subhash Singh
+--sec H
+--uni roll no.:22155001781
+--class roll no.:65
+--Group no.:09
 --  SQL query template to help you calculate HDFC's market share and compare it with competitors. 
 --  Let's assume we're loading the data into SQL tables named bank_sector,
 --  atm_pos_stats, and transaction_data.
